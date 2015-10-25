@@ -1,5 +1,5 @@
 /**
- * @author Stuxbot
+ * @author Lok Thapa
  */
 
 var httpd = require('http').createServer(handler);
